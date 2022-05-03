@@ -1,4 +1,4 @@
-# Kickstarter_vs_COVID-19
+# Kickstarter vs COVID-19
 Group Project for DATA7001 course
 
   KickStarter, despite COVID-19 and its impact on the global economy appears to be thriving in the face of adversity. This is illustrated not just through the success rates being unhindered pre-COVID and post-COVID, but also through the number of campaigns launched remaining consistent. After the 13th of March this year, when the US declared COVID-19 a health crisis, KickStarter did not slow and many interesting insights are still able to be gained.
