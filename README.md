@@ -1,8 +1,6 @@
 # Kickstarter_vs_COVID-19
 Group Project for DATA7001 course
 
-Executive Summary:
-
   KickStarter, despite COVID-19 and its impact on the global economy appears to be thriving in the face of adversity. This is illustrated not just through the success rates being unhindered pre-COVID and post-COVID, but also through the number of campaigns launched remaining consistent. After the 13th of March this year, when the US declared COVID-19 a health crisis, KickStarter did not slow and many interesting insights are still able to be gained.
 We discovered through our project that there are varying key predictors which can impact the success of a campaign. These include category, day of release, campaign length, goal, and reward tiers. Reward tiers was another crucial aspect to determining success as the actual amounts that customers are able to pledge plays a role in campaigns meeting their goal. These reward tiers, explored through variance measures such as min, max, quartiles, and mean, were integral to predicting success alongside campaign length and the number of reward tiers present.
 
